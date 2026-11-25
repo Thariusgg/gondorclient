@@ -1,5 +1,3 @@
 title: Discord Sunucumuz Açıldı!
 desc:
-  Discord sunucumuz açıldı
-  hemen katılmak için
-  solda ki butonuna tıkla.
+  Güncellemeler, duyurular ve topluluk için sunucumuza katıl.
