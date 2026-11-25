@@ -1,1 +1,6 @@
-
+title: Discord sunucumuz açıldı!
+desc: {
+  Discord sunucumuz açıldı
+  hemen katılmak için
+  solda ki butonuna tıkla.
+}
