@@ -1,0 +1,18 @@
+gcd-3: {
+  title: "Gondor Client v0.1.0 Yayında!",
+  date: "8 Kasım 2026",
+  m-desc: "DUYURU",
+  desc: "Uzun süredir geliştirdiğimiz özel client projemiz Gondor Client artık erişime açık! Yeni bir sürüm olduğu için ufak hatalarla karşılaşabilirsiniz. Geri bildirimlerinizi ve hata raporlarınızı Discord sunucumuz üzerinden bize iletebilirsiniz."
+},
+gcd-2: {
+  title: "Sürüm 0.1.0 Notları",
+  date: "8 Kasım 2026",
+  m-desc: "GÜNCELLEME",
+  desc: "Optimize edilmiş 25 özel mod ile Gondor Client yayında. FPS düşüşüne ve çakışmalara yol açan tüm unsurlar temizlendi; her sistemde yüksek performans sunmak üzere sıfırdan tasarlandı."
+},
+gcd-1: {
+  title: "Resmi Discord Sunucumuz Açıldı",
+  date: "8 Kasım 2026",
+  m-desc: "DUYURU",
+  desc: "Güncellemeleri takip etmek, topluluğa katılmak, klanınızı kurmak ve destek almak için resmi Discord sunucumuza katılabilirsiniz."
+}
